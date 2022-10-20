@@ -1,1 +1,1 @@
-# leaflet-challenge
+# leaflet-challenge: Visualizing Data with Leaflet
