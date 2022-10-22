@@ -12,4 +12,4 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
 ### Part 2: Gather and Plot More Data
 
 
-https://b0906.github.io/leaflet-challenge/Leaflet-Part-1/templates/
+Link: https://b0906.github.io/leaflet-challenge/Leaflet-Part-1/templates/
