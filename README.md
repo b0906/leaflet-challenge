@@ -7,9 +7,11 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Part 1: Create the Earthquake Visualization
 
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
+Data reference: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
 
-### Part 2: Gather and Plot More Data
+<img width="1477" alt="Screen Shot 2022-10-24 at 9 05 33 PM" src="https://user-images.githubusercontent.com/108036268/197666116-7cc8d475-a46e-449f-ad9f-e65391ab97b0.png">
+
+<img width="1477" alt="Screen Shot 2022-10-24 at 9 05 52 PM" src="https://user-images.githubusercontent.com/108036268/197666175-ccef0348-d080-4c9c-beef-d51180a53af8.png">
 
 
 Link: https://b0906.github.io/leaflet-challenge/Leaflet-Part-1/templates/
